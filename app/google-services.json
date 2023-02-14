@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "152429230278",
+    "project_id": "mangoplateapp",
+    "storage_bucket": "mangoplateapp.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:152429230278:android:2ea7cdda2061e91ed03fc7",
+        "android_client_info": {
+          "package_name": "com.example.mangoplateapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "152429230278-qj4nr1m4cd3ssh1rh8ipocia26qro6no.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCMdBZgN0crB_3UdeerC2xHiVSicjHJp6E"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "152429230278-qj4nr1m4cd3ssh1rh8ipocia26qro6no.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
